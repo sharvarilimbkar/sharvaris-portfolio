@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/sharvaris-portfolio": {},
+    "/sharvaris-portfolio/about": {},
+    "/sharvaris-portfolio/contact": {},
+    "/sharvaris-portfolio/projects": {}
+  }
+}
