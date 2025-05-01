@@ -371,3 +371,15 @@ a {
     font-weight: 600;
     color: #666;
 }
+@media only screen and (max-width: 56.25em) {
+    .heading-sec__mb-med {
+        margin-bottom: 8rem;
+    }
+}
+
+@media only screen and (max-width: 56.25em) {
+    .about__content {
+        grid-template-columns: 1fr;
+        grid-gap: 8rem;
+    }
+}
