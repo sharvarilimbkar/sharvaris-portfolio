@@ -2,7 +2,7 @@ export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
   <meta charset="utf-8">
   <title>Sharvari | Frontend Web Developer</title>
     <meta name="description" content="A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product">
-  <base href="https://sharvarilimbkar.github.io/sharvaris-portfolio/">
+  <base href="/sharvaris-portfolio/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

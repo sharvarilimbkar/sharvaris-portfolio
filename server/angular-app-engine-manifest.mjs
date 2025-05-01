@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://sharvarilimbkar.github.io/sharvaris-portfolio',
+  basePath: '/sharvaris-portfolio',
   supportedLocales: {
   "en-US": ""
 },
