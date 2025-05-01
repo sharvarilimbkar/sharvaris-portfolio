@@ -47,19 +47,19 @@
     <div class="header__sm-menu-content">
       <ul class="header__sm-menu-links">
         <li class="header__sm-menu-link">
-          <a routerLink="/">Home</a>
+          <a routerLink="/" (click)="showMenu(false)">Home</a>
         </li>
 
         <li class="header__sm-menu-link">
-          <a routerLink="/about">About</a>
+          <a routerLink="/about" (click)="showMenu(false)">About</a>
         </li>
 
         <li class="header__sm-menu-link">
-          <a routerLink="/projects">Projects</a>
+          <a routerLink="/projects" (click)="showMenu(false)">Projects</a>
         </li>
 
         <li class="header__sm-menu-link">
-          <a routerLink="/contact" >Contact</a>
+          <a routerLink="/contact" (click)="showMenu(false)">Contact</a>
         </li>
       </ul>
     </div>
